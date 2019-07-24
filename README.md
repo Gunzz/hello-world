@@ -1,2 +1,2 @@
 # hello-world
-Testando como o GitHub funfa
+Testando o GitHub
